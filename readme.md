@@ -4,6 +4,9 @@
 
 "Palindrome"
 
+_Language: Ruby_
+_Difficulty Rating: Easy_
+
 ### Objectives
 
 - Check a string (`str`) to determine if the string is a palindrome.

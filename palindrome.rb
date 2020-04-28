@@ -1,8 +1,7 @@
-# write your sudo code here
+# RUBY PALINDROME
 
-def palindrome?(str)
-  #your code here
+def palindrome(str)
  
 end
 
-p palindrome? "a man a plan a canal panama"
+puts palindrome("a man a plan a canal panama")
