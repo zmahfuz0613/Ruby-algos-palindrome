@@ -5,6 +5,7 @@
 "Palindrome"
 
 _Language: Ruby_
+
 _Difficulty Rating: Easy_
 
 ### Objectives
